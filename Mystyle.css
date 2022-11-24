@@ -8,3 +8,8 @@
 .neotable{
     border: 10px solid red;
 }
+.myFooter{
+    background-color: brown;
+    height: 300px;
+    color: aqua;
+}
